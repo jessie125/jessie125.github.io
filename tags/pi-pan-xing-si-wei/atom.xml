@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Tag: 批判性思维 | 飘飘白云]]></title>
-  <link href="http://kesalin.github.io/tags/pi-pan-xing-si-wei/atom.xml" rel="self"/>
-  <link href="http://kesalin.github.io/"/>
-  <updated>2014-10-12T15:09:11+08:00</updated>
-  <id>http://kesalin.github.io/</id>
+  <title><![CDATA[Tag: 批判性思维 | 小马宝嘟嘟的Mommy]]></title>
+  <link href="http://jessie125.github.io/tags/pi-pan-xing-si-wei/atom.xml" rel="self"/>
+  <link href="http://jessie125.github.io/"/>
+  <updated>2014-10-14T07:37:34+08:00</updated>
+  <id>http://jessie125.github.io/</id>
   <author>
-    <name><![CDATA[飘飘白云]]></name>
-    <email><![CDATA[kesalin@gmail.com]]></email>
+    <name><![CDATA[Jessie]]></name>
+    <email><![CDATA[niechao125@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
     <title type="html"><![CDATA[学会提问：批判性思维指南]]></title>
-    <link href="http://kesalin.github.io/blog/2014/10/12/critical-thinking/"/>
+    <link href="http://jessie125.github.io/blog/2014/10/12/critical-thinking/"/>
     <updated>2014-10-12T08:35:02+08:00</updated>
-    <id>http://kesalin.github.io/blog/2014/10/12/critical-thinking</id>
+    <id>http://jessie125.github.io/blog/2014/10/12/critical-thinking</id>
     <content type="html"><![CDATA[<h3>写在前面的话：</h3>
 
 <ol>
@@ -289,43 +289,33 @@
 
 <p>常见<strong>修辞手法</strong>：</p>
 
-<p>委婉语和粗直语</p>
+<pre><code>* 委婉语和粗直语
+    * 定义:
+        * 委婉语：使用能引起正面联想的词语来淡化负面影响，如：用褒义词或中性词。
+        * 粗直语：使用能引起负面联想的词语来强化负面影响，如：用贬义词或中心词。
+    * 效果：往往带有欺骗性或暗含欺骗性。
 
-<pre><code>* 定义:
-    * 委婉语：使用能引起正面联想的词语来淡化负面影响，如：用褒义词或中性词。
-    * 粗直语：使用能引起负面联想的词语来强化负面影响，如：用贬义词或中心词。
-* 效果：往往带有欺骗性或暗含欺骗性。
+* 修辞性类比、定义或解释
+    * 修辞性定义：运用诉诸情感的语言来激发积极或消极的态度。
+        * 示例：将”堕胎“定义为”谋杀未出生的孩子“ 
+    * 修辞性解释：貌似解释的修辞技巧。
+        * 示例：他因缺乏勇气而输了比赛。 VS 他因过于谨慎而输了比赛。   
+
+* 刻板印象
+    * 定义：没有正当理由过于简单地概括一类对象中的每个成员。
+    * 示例：自由分子 / 右翼分子 / 女人感性，男人理性。
+
+* 暗示
+    * 定义：运用中立的甚至积极的语言暗示人们联想事情的反面。
+    * 示例：在不少方面，她时称职的。
+
+* 贬抑
+    * 定义：降低事物的重要性。
+    * 示例：贬抑最常见的词语是“只不过是”，“所谓的”，“仅仅”。 
+
+* 嘲笑/讽刺
+* 夸张
 </code></pre>
-
-<p>修辞性类比、定义或解释</p>
-
-<pre><code>* 修辞性定义：运用诉诸情感的语言来激发积极或消极的态度。
-    * 示例：将”堕胎“定义为”谋杀未出生的孩子“ 
-* 修辞性解释：貌似解释的修辞技巧。
-    * 示例：他因缺乏勇气而输了比赛。 VS 他因过于谨慎而输了比赛。   
-</code></pre>
-
-<p>刻板印象</p>
-
-<pre><code>* 定义：没有正当理由过于简单地概括一类对象中的每个成员。
-* 示例：自由分子 / 右翼分子 / 女人感性，男人理性。
-</code></pre>
-
-<p>暗示</p>
-
-<pre><code>* 定义：运用中立的甚至积极的语言暗示人们联想事情的反面。
-* 示例：在不少方面，她时称职的。
-</code></pre>
-
-<p>贬抑</p>
-
-<pre><code>* 定义：降低事物的重要性。
-* 示例：贬抑最常见的词语是“只不过是”，“所谓的”，“仅仅”。 
-</code></pre>
-
-<p>嘲笑/讽刺</p>
-
-<p>夸张</p>
 
 <h3>谁在利用歧义</h3>
 
