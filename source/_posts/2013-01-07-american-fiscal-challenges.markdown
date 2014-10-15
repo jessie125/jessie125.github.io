@@ -1,0 +1,60 @@
+---
+layout: post
+title: "America's fiscal challenges-美国财政挑战"
+date: 2013-01-07 19:19:56 +0800
+comments: true
+categories: [翻译]
+tags: [翻译, 英语]
+description: "美国财政" 
+keywords: 美国财政, 翻译
+---
+
+**It's not them, it's you**  
+**根源不在他们，而是你们自己**
+
+Jan 7th 2013, 20:23 by R.M. | WASHINGTON, DC
+
+ANN LYNN of Scottsdale, Arizona, wrote a letter to the New York Times last week that sums up the thinking of many Americans regarding the country's fiscal outlook.
+
+来自（美国）亚利桑那州的斯科茨代尔城市的ANN LYNN上周向纽约时报写了一封信，信中总结了许多美国人对国家财政前景的想法。
+
+<!--more-->
+
+“However much we raise taxes and/or try to cut spending, we will constantly be thwarted if Washington does nothing about government waste. I would have no objection to paying taxes (within reason) if only I did not know that so much goes right down the drain!”
+
+“如果国家对政府浪费熟视无睹,无论我们再怎么提高税收和（或）努力削减开支，我们也会不断遭受财政危机困扰。要是我不知道这么多开支全部都付之东流，我本来是愿意在合理范围内向政府缴税的。”
+
+My holidays were spent with a political crowd who share Ms Lynn's aversion to "government waste", which they would define broadly to include money spent on welfare queens and food-stamp fraudsters, as well as unnecessary government workers and unwanted public services. In fact, they would include most of the stimulative outlays enacted under Barack Obama. This wasteful spending needs to be reined in or America will go the way of Greece, they say.
+
+我的整个假期就是与一群政治人士讨论关于Lynn反感“政府浪费”的问题，他们广泛定义“政府浪费”，其中包括福利皇后（注释1）和冒领食品券行为以及不必要的政府员工开支和公共设施服务。事实上，奥巴马制定的大多数刺激性支出都可以被划入这种所谓的“政府浪费”。他们指出，如果这种浪费性的支出行为不得到控制，美国将重蹈希腊的覆辙。
+
+You can see why many Americans are opposed to raising revenue in an effort to close the budget gap. They don't like the things they believe their money is buying. Fortunately, as the economy recovers, their money is buying less of these things. In fact most of the story behind America's recent string of large deficits is slump-related, a result of lower tax revenues due to the underperforming economy, and increased spending on things like unemployment insurance, food stamps and Medicaid. As the economy recovers, revenues increase and safety-net spending declines, the debt-to-GDP ratio should return to a relatively stable level in the short term.
+
+你可以看出为什么许多的美国人都反对增加财政收入以缩小预算缺口这个计划。他们认为自己正为一些政府支出买单，而对这些支出，他们并不喜欢。值得庆幸的是，随着经济状况的好转，他们的税金花在所谓“政府浪费”上的份额也减少了。事实上，美国最近一系列大规模赤字背后的许多类似情况与经济衰退有关，经济不佳造成税收减少，而对诸如失业保险，食物券和医疗补助的支出却与日俱增。当经济复苏，财政收入增加，社会福利支出减少时，债务占国内生产总值比率在短期内应该恢复到一个相对稳定的水平。
+
+The longer-term fiscal outlook is more bleak, but my holiday crowd does not distinguish between the distinct challenges. They again blame "waste" and those they call "the takers". Some people are hooked on government handouts, they say, echoing a common refrain from last year's election battle. In keeping with the remarkable disconnect between the actual takers and their perception of reality, none of my group acknowledges their own enjoyment of government social programmes. 
+
+虽然从长期来看，财政前景惨淡，但是在假期和我一起参与讨论的政党对这些明显挑战的认识却没什么不同。他们将责任归咎于这种“浪费行为“和他们所称的“索求者”。他们认为，有些人依赖政府救济（这一说法在去年美国大选中已司空见惯）。社会福利的真正索取者和他们对现实的认识之间有着显著的偏差，与此相一致的，和我讨论的小组成员中没人意识到自己享受的政府社会福利项目。
+
+Many Americans don't like the things they believe their money is buying. But their bill is hardly reduced by cutting payments to the jobless, dependent moochers they see as the cause of the country's fiscal troubles. Last year the Center on Budget and Policy Priorities ran the numbers and found
+
+他们不喜欢他们所缴税金所买的东西。他们将失业者和吃皇粮的人视为国家财政困难的根源。但减少对这这人的救济支出也很难使他们的税单减少。去年，预算和政策优先中心分析数据发现：
+
+“People who are neither elderly nor disabled — and do not live in a working household — received only 9 percent of [entitlement] benefits. Moreover, the vast bulk of that 9 percent goes for medical care, unemployment insurance benefits (which individuals must have a significant work history to receive), Social Security survivor benefits for the children and spouses of deceased workers, and Social Security benefits for retirees between ages 62 and 64. Seven out of the 9 percentage points go for one of these four purposes.”
+
+“那些既非年老，残疾且非来自工薪家庭的人只享受到9%的国家福利。而且，这9%的福利主要是医疗服务，失业保险（受益者必须有足够的工作经历才能享有）， 在职人士过世后其子女和配偶所获得的社会保障遗眷福利，以及62-64岁退休人员享有的社会保障福利。在这仅有的9%的福利中，7/9只能享有其中一项福利。”
+
+The story is similar when looking at discretionary programmes—if there is a pure "entitlement society", it is small and poorly funded.
+
+社会补充福利的情况也类似 - 如果说有一个纯粹的“福利社会”，那么这个社会规模小而且资助缺乏。
+
+There is a reason politicians often do not specify which spending cuts they're talking about in budget negotiations: the popular ones (see cuts to foreign aid) don't add up. And, in general, Americans do like the programmes that primarily drive the country's fiscal imbalances—notably Social Security (20% of the budget) and Medicare (21%, taken with Medicaid and CHIP). Most of us do or will (hopefully) benefit from those programmes. That leaves us with the uncomfortable reality that we, not the jobless moochers, are the problem.
+
+政客们通常没有详细说明预算谈判中所讨论的财政削减的原因：民众都支持削减的项目（如对外援助）数额不足以填补漏洞，总的来说，美国人不喜欢那些作为国家财政失衡主要推手的福利项目。—尤其是社会保障福利（占20%的财政）和医疗服务（占21%，还包括医疗补助与儿童健保项目）。乐观的来说，大部分人能或将要享受这些福利项目。这么一来，我们面对一个令人不安的现实：即我们才是问题的所在，而非那些啃福利的失业者。
+
+Greg Mankiw, an economist and former advisor to Mitt Romney, made clear the challenge facing America in a column two weeks ago: "Ultimately, unless we scale back entitlement programs far more than anyone in Washington is now seriously considering, we will have no choice but to increase taxes on a vast majority of Americans." My colleague notes that Jonathan Chait is confident that Americans will choose tax hikes over cuts to their own entitlements. But is that really the calculation most Americans are making? Most are still in denial over their role in America's fiscal drama. And as long as they are able to find convenient scapegoats for the country's fiscal challenges they will oppose the infliction of pain on themselves. Someone needs to tell these people, it's not them, it's you.
+
+两周以前，经济学家兼为罗姆尼前顾问Greg Mankiwa在一专栏明确指出美国面临的挑战：“从长远来看，除非仔细考虑超过以往任何缩减福利项目的计划，否则我们只能对大部分美国民众提高征税。”我同事说Jonathan Chait深信美国人宁愿选择增加赋税而不愿减少他们享有的福利。但是这真的是大部分美国人所考虑的吗？大部分人仍然在不愿意承认他们在这场美国财政闹剧中所扮演的角色。而且只要能够找到国家财政困难的替罪羔羊，他们不会感到痛苦。需要有人告诉这些人，根源不是他们，还是你们自己。
+
+---
+注释1: 福利皇后：美国总统奥巴马出台的一项福利政策，主要是针对那些没有从事物质生产，为美国繁衍后代做出贡献的黑人中年妇女。

@@ -1,0 +1,65 @@
+---
+layout: post
+title: "Afghanistan’s fearful future-阿富汗严峻的未来局势"
+date: 2013-01-11 18:40:06 +0800
+comments: true
+categories: [翻译]
+tags: [翻译, 英语]
+description: "阿富汗" 
+keywords: 阿富汗, 翻译
+---
+
+**So long, buddy**  
+**军事密友难说再见**
+
+As it ponders what kind of force to leave in Afghanistan after 2014, the White House has started talking about a “zero option”
+
+美国政府已掂量在阿富汗“零驻军”
+
+<!--more-->
+
+Jan 12th 2013 | from the print edition
+
+FOR all the smiles and handshakes, this week’s visit to Washington, DC, by Afghanistan’s president, Hamid Karzai, was a tense affair. Mr Karzai was due to meet President Barack Obama on January 11th to discuss the scope and size of America’s military presence in his country after the end of 2014, when almost all of NATO’s combat troops are due to leave.
+
+阿富汗总统卡尔扎伊于这周对美国进行访问，所有微笑和握手也预示着这次紧张的会晤。卡尔扎伊1月11号会见与奥巴马总统 ，就2014年底之后美国在阿富汗驻扎军队的范围和规模展开拉锯战，北约作战部队计划在2014年底从阿富汗撤军。   
+                                           
+Mr Karzai may have overplayed his hand. He knows that a bilateral security agreement with America will be vital. Yet the shrillness of some of Mr Karzai’s criticisms of America’s conduct of the war has only played into the hands of those in the administration who would like to be shot of Afghanistan. Nothing is likely to be decided for several months—the agreement does not have to be signed until November—but there is now talk of a so-called zero option, which would see the departure of all American forces next year.
+
+卡尔扎伊总统也许高估了自己的影响力。他知道与美国达成双边安全协议至关重要。然而卡尔扎伊对美国战争行为的强烈谴责正好被想要彻底摆脱阿富汗的美国政府官员所利用。在接下来的几个月，双方不太可能达成一致协议—最早也要到11月份才能决定签署双边协议---但是双方正在讨论的是所谓“零驻军”，即美军将于明年从阿富汗全部撤军。
+
+Until very recently it had been assumed that America would want to keep at least 20,000 of its troops in Afghanistan, bolstered by a few thousand more from NATO allies. They would be there to continue the training of Afghan National Security Forces (ANSF) and to provide essential capabilities that the Afghans still lack and have come to depend upon when fighting the Taliban alongside Western forces. These include air transport for logistics and medical evacuation, surveillance and intelligence, and close air support. In addition, America would retain special forces and armed drones to stop al-Qaeda’s leadership regrouping in Pakistan’s tribal areas or returning to the terrorist group’s old training grounds in Afghanistan itself.
+
+最近，外界认为美国想要继续在阿富汗至少驻军2万人，北约盟国也会驻军数千人。他们将继续训练阿富汗国家安全部队以及加强阿富汗锁仍缺乏的重要作战能力，而且与西方军队共同对抗塔利班的时候必须依靠这种作战能力。其中包括航空物流运输，医疗后送，监控与侦查，以及近距空中支援。另外，美国将继续保留特种部队以及武装无人机阻止基地组织在巴基斯坦部落地区进行领导重组或返回在阿富汗本土的恐怖组织老训练场所。
+
+For the Afghans, it seemed self-evident that America would want to keep bases in their country as a way of maintaining its influence in a region full of security threats, whether from Iran or from a failing Pakistani state armed to the teeth with nuclear weapons. They also believed assurances from the Americans and the wider world that they would not be abandoned, and that, after spending so much blood and treasure, the West would not allow Afghanistan to descend into chaos and civil war yet again.
+
+对于阿富汗人来说，美国想继续保持在阿富汗的美军基地，以维持其在充满安全威胁地区（无论是在伊朗而或衰败的巴基斯坦还是充斥着核武器的地区）的影响力，这一点似乎是不言而喻的。他们也相信美国以及国际社会对他们做出的保证，即国际不会对他们置之不顾，而且已花费了大量财力以及丧失了众多作战人员，西方国家绝不会让阿富汗再一次陷入混乱和内战。
+
+Mr Karzai and other Afghan political leaders are sensitive about their country’s sovereignty. But they have no intention of emulating the Iraqis, who brought an abrupt end to the presence of American troops by refusing to sign a new status of forces agreement providing immunity from prosecution for foreign soldiers.
+
+卡尔伊扎和其他阿富汗政治领导人敏感的还是他们国家的主权问题。但是他们不打算效仿伊拉克（伊拉克拒绝签署一项驻美军豁免权的新美军地位协议，从而阻止美军驻军伊拉克）。
+
+Yet they appear to have underestimated how fast the appetite in Mr Obama’s administration has waned for keeping a significant military presence in Afghanistan after 2014. Acute budgetary pressures; the draining of public support for involvement in a war most believe long ago to have been lost; and a belief in some quarters that drones and the intelligence networks that have been built up over the past decade are all that is needed for American security: all have chipped away at the notion of leaving behind a substantial force. On January 8th Ben Rhodes, a deputy national security adviser at the White House, confirmed that leaving no troops behind after 2014 was one of the options under active consideration.
+
+然而，奥巴马政府对2014年之后继续保持在阿富汗大型驻军规模的欲望已减弱，他们似乎低估这一点。 严重的财政压力；大部分人认为长期卷入战争是奥巴马的公众支持率下降；美国一些地区普遍认为无人机和过去几十年来建立的情报网络都应该用于美国安全。1月8日， 美国副国家安全顾问Ben Rhodes证实美国正在积极讨论2014年在阿富汗零驻军的计划。
+
+How much of this should come as a surprise? In the vice-presidential election debate last October, when asked about the drawdown timetable for Afghanistan, Joe Biden said: “We are leaving. We are leaving in 2014. Period.” Since Mr Biden has frequently argued for America having the lightest possible footprint in Afghanistan, his remark got little attention. But in November, when the American commander of the NATO-led international coalition, General John Allen, told his bosses at the Pentagon that he favoured a slow drawdown of combat troops over the next two years and a residual force of at least 15,000 to be provided by America alone, he was told to come back with lower estimates.
+
+这一计划在多大程度上才算得上一个惊喜？在去年10月进行的副总统竞选辩论中，当问及从阿富汗撤军的时间计划时，乔-拜登说：“我们正在撤军，我们将于2014年完全撤军。”拜登不断主张在阿富汗进行少量驻军，很少有人注意他说话的内容。但是到11月，当美国北约领导的国际联军指挥官John Allen将军告诉其在国防部上司，他支持在未来两年作战部队逐渐从阿富汗撤军以及美国继续驻军1万五的军力，他了解到撤军的数目要低于估计的数目
+
+Unfortunately for General Allen, at about the same time he found himself embroiled in the fallout from the sudden resignation of David Petraeus as director of the Central Intelligence Agency. It may have weakened his bargaining position. This month General Allen offered revised proposals for a force ranging from about 3,000 to 9,000. Most military experts, however, still believe that an international force of around 30,000 is needed to support the ANSF after 2014.
+
+这对于Allen将军是不幸的，同时他也发现自己卷入中央情报局局长David Petraeus 突然辞职的余波当中。这也许会削弱他的谈判地位。Allen将军于这个月提交了修订后的提案，建议在阿富汗驻军3000到9000。然而，大部分军事专家坚持认为2014年之后需要3万国际部队支援阿富汗国家安全部队。
+
+Yet it now appears that the troop levels under consideration by the president range between 6,000 and none. His choice of defence secretary, Chuck Hagel, a former Republican senator whom the president nominated this week, is unlikely to challenge those numbers. Mr Hagel has long been a sceptic when it comes to Afghanistan and has talked of “looking for the exit”. Even if the higher force figure gets the go-ahead, allies will be reluctant to contribute to it, concluding that America is more than halfway out of the door and that such a minimal force can achieve little beyond a small training mission in Kabul and securing the air base at nearby Bagram for limited counter-terrorism operations.
+
+然而，美国总统考虑的驻军范围似乎是少于6000。奥巴马这周钦定的新任国防部长Chuck Hagel(前共和党参议员)不太可能去质疑这一数字。当涉及到阿富汗时，Hagel一直都是持怀疑态度以及讨论寻找对策。尽管更高的驻军数目得到批准，北约同盟国不愿增派各自的部队，由此可以看出美国已占一半以上的驻军力量，而且这样的小型驻军力力量除了在喀布尔进行规模小的训练任务和在巴格拉附近保护空军基地而进行有限的反恐行动之外，并不能有多少效果。
+
+Despite an improving combat performance, it is highly uncertain whether the ANSF will cope. Hastily recruited and trained, the ANSF is still a work in progress. It was deliberately denied heavy weapons or much of an air force on the assumption that America would provide key “enablers” for years to come. It now takes the lead security role in about 85% of the country by population, and overall levels of violence are slightly down on previous years. But according to the Pentagon’s latest report on the progress of Afghan forces, only one out of 23 brigades is capable of operating without any outside help. It now looks as if the ANSF will be on its own in southern Afghanistan, where the Taliban is strongest, as well as in the wild east of the country which borders the lair in North Waziristan of the Haqqani network.
+
+虽然阿富汗国家安全部队在作战能力上有了一定的改善，但是该部队是否能够单独作战仍然十分的不确定。经过匆忙的招募和训练，ANSF的作战能力还在不断的加强。假如美国将来向阿富汗提供关键武器，重型武器或空军部队不列入其范围。ANSF现已在全国85%人口地区的安全事务中起着重要作用，暴力事件在这几年来总体水平略有下降。但是根据美国国防部关于阿富汗部队进展的最新报告，在没有外援的情况下，仅有1/23的部队能够单独作战。现在看来ANSF在塔利班势力最强的阿富汗南部地区和与北瓦济里斯坦边境地区哈卡尼激进组织巢穴交界的东部荒野地区靠自己单独作战了。
+
+As well as a security transition, a crucial political transition is also under way, with a presidential election due in 2014 (Mr Karzai is constitutionally barred from standing again). Whether Mr Obama decides on a force of 6,000 or on no troops at all, Afghans going to the polls 16 months from now will be facing much bleaker prospects than many might have expected only a few months ago.
+
+进行安全工作移交工作的同时，一场重要的政权更替也在进行着，2014年阿富汗将进行总统选举（根据该国宪法，卡布扎伊不会再次连任）。关于奥巴马是否决定在阿富汗驻军6000人或是零驻军，在接下来的16个月里，阿富汗民众参与投票将面临比数月之前所期待的还要更为暗淡的前景。
